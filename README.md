@@ -3,7 +3,7 @@
 
 <h2>About</h2>
 
-This was the group final project assigned in STAT 420: Methods of Applied Statistics during the Spring 2021 semester. The group members are listed in the [Credits section](https://github.com/benny-zhao/european-football-analytics/edit/main/README.md#credits).
+This was the group final project assigned in STAT 420: Methods of Applied Statistics during the Spring 2021 semester. The group members are listed in the ["Credits" section](https://github.com/benny-zhao/european-football-analytics/blob/main/README.md#credits).
 
 We used a data set containing the four European Leagues during the 17-18, 18-19, and 19-20 seasons, which were the EPL, La Liga, Serie A, and Ligue 1. These are the highest levels of professional football in England, Spain, Italy, and France, respectively. The source of the data are as follows:
 
