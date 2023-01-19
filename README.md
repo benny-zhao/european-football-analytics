@@ -57,9 +57,12 @@ $$\begin{matrix} y_{\text{W}_\text{Prop}}= -0.3565 + 0.005474x_{\text{xG}}+0.009
 
 The adjusted $R^2$ value indicates that 86.597% of the variance in the proportion of games in a season is explained by our model, after adjusting for correlation due to random change.
 
-Graphically, our model is visualized as the curved line in the following, where observations are the green dots:
+Graphically, our model is visualized as the curved line in the following scatter plot, where teams are represented as green dots:
 
-![]()
+- The x-axis is the sum of the three positive terms in the model: expected goals $x_{\text{xG}}$, expected goals allowed $x_{\text{xGA}}$, and the possessions as a proportion of attempted passes $x_{\text{Poss}}$
+- The y-axis is the proportion of games won by a team in a season
+
+![Plot of Final Model](https://raw.githubusercontent.com/benny-zhao/european-football-analytics/main/finalModelScatterPlot.png)
 
 <h2>Installation</h2>
 
